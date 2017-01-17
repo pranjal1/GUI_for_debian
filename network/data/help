@@ -1,0 +1,17 @@
+This is a network setup tool using raspberry pi.
+This program allows user to setup and configure 
+wireless access point. The user can look about the 
+SSID, Password and BSSID of the network. The user
+can also change SSID and password as per requirement.
+
+Load Information:
+This is used to view current SSID and password.
+
+Edit Network Information:
+
+New SSID: This field is used to provide new SSID name.
+New Passphrase : This is used to set new password.
+Confirm: This is used to confirm the changes.
+Quit: This is used to close the current session.
+
+Version:1.0
